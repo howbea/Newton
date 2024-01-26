@@ -1,1 +1,0 @@
-a session for Gnome
