@@ -1,4 +1,4 @@
-This is a Gnome session.    
+This is a Gnome session. It suits for Ubuntu mantic currently.   
 
 Requirement:    
 Gnome 45    
